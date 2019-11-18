@@ -2,7 +2,7 @@
 
 <b>First download the dataset from kaggle from this link -> https://www.kaggle.com/hugomathien/soccer then start.</b>
 
-In this project I'm are going to predict the overall rating of soccer player based on their attributes
+In this project I'm going to predict the overall rating of soccer player based on their attributes
 such as 'crossing', 'finishing etc.
 The dataset I am going to use is from European Soccer Database
 (https://www.kaggle.com/hugomathien/soccer) has more than 25,000 matches and more than
